@@ -6,11 +6,7 @@ Este repositório contém **exercícios resolvidos** por mim das disciplinas de 
 
 ## Por quê?
 
-O objetivo deste repositório é **compartilhar soluções** de problemas que abordam conceitos importantes dessas disciplinas, ajudando você a:
-
-- **Estudar** diferentes abordagens para a resolução de problemas.
-- **Entender a lógica** por trás das soluções matemáticas e algorítmicas.
-- **Utilizar os exemplos** como base para suas próprias práticas e exercícios.
+O objetivo deste repositório é **compartilhar soluções** de problemas que abordam conceitos importantes dessas disciplinas.
 
 ---
 
