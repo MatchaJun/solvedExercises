@@ -19,4 +19,4 @@ Os exercícios estão organizados em pastas conforme os temas abordados:
 
 ---
 
-Sinta-se à vontade para usar este material como suporte em seus estudos e análise. Espero que seja útil para seu aprendizado e progresso!
+Sinta-se à vontade para usar este material como suporte em seus estudos e análise!
